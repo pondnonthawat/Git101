@@ -14,7 +14,7 @@
 
 <body>
   <section class="row">
-    <aside class="col-3 col-xl-2 bg-pr full-height-overflow">
+    <aside class="col-3 col-xl-2 bg-pr full-height-overflow" style="border" : 10px dashed black;">
       <ul>
         <a href="./">
           <li class="hov-primary">Dashboard</li>
